@@ -82,3 +82,8 @@ def sum():
     b = int(input("Введите число: "))
     a = int(input("Введите число: "))
     print(a + b)
+
+def sum():
+    b = int(input("Введите число: "))
+    a = int(input("Введите число: "))
+    print(a * b)
