@@ -89,3 +89,4 @@ def sum():
     a = int(input("Введите число: "))
     print(a * b)
 print(1)
+print("привет")
